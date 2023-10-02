@@ -3,15 +3,15 @@
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610" group-title="JAPAN", TOEI
 https://raw.githubusercontent.com/thefirefox12537/streams/master/toei.m3u8
-#EXTINF:-1 group-title="JAPAN", AT-X
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/220px-AT-X_logo.svg.png" group-title="JAPAN", AT-X
 https://raw.githubusercontent.com/thefirefox12537/streams/master/ateeks.m3u8
-#EXTINF:-1 group-title="JAPAN", NHK EDU
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/revision/latest/scale-to-width-down/210?cb=20230426194503" group-title="JAPAN", NHK EDU
 https://raw.githubusercontent.com/thefirefox12537/streams/master/enhakaedu.m3u8
-#EXTINF:-1 group-title="JAPAN", NHK World Japan
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/17f0e25ac0fa96a5f876af548db43baaaecd59e90037507c371f65d8fd8517f4/68747470733a2f2f692e696d6775722e636f6d2f544443755544732e706e67" group-title="JAPAN", NHK World Japan
 http://203.162.235.41:13092/
-#EXTINF:-1 group-title="JAPAN", NHK G
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/210?cb=20200425210637" group-title="JAPAN", NHK G
 https://raw.githubusercontent.com/thefirefox12537/streams/master/enhakaumum.m3u8
-#EXTINF:-1 group-title="JAPAN", Fuji TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest?cb=20210717040646" group-title="JAPAN", Fuji TV
 https://raw.githubusercontent.com/thefirefox12537/streams/master/fujiteve.m3u8
 #EXTINF:-1 group-title="JAPAN", Fuji 1 TV
 https://raw.githubusercontent.com/thefirefox12537/streams/master/fuji_siji.m3u8
@@ -19,15 +19,15 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/fuji_siji.m3u8
 https://raw.githubusercontent.com/thefirefox12537/streams/master/fuji_loro.m3u8
 #EXTINF:-1 group-title="JAPAN", Fuji NEX
 https://raw.githubusercontent.com/thefirefox12537/streams/master/fujineks.m3u8
-#EXTINF:-1 group-title="JAPAN", Nippon TV
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/a651e80bf4027f12533bcffa9579c44a0950ad59cc61acc42e8a16a233d798e0/68747470733a2f2f692e696d6775722e636f6d2f49477535326e4d2e706e67" group-title="JAPAN", Nippon TV
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nipon.m3u8
-#EXTINF:-1 group-title="JAPAN", TV Asahi
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/05776e763e09572ad79302356b4cf739b1f8052e99c7b1f2a9398d48ba888aa0/68747470733a2f2f692e696d6775722e636f6d2f726c73384e56632e706e67" group-title="JAPAN", TV Asahi
 https://raw.githubusercontent.com/thefirefox12537/streams/master/asahi.m3u8
-#EXTINF:-1 group-title="JAPAN", TBS
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/0ea26f0c43c642454b0c92365b35a8187d6c824e34408c9ab10bf6437228c455/68747470733a2f2f692e696d6775722e636f6d2f537a574a7363722e706e67" group-title="JAPAN", TBS
 https://raw.githubusercontent.com/thefirefox12537/streams/master/tebees.m3u8
 #EXTINF:-1 group-title="JAPAN", TBS 1
 https://raw.githubusercontent.com/thefirefox12537/streams/master/tebees_siji.m3u8
-#EXTINF:-1 group-title="JAPAN", TV Tokyo
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/dc2abdfd1d97be806b03ba26951ead21708bf9bd7d1e4447475b7ec1cd5b81cd/68747470733a2f2f692e696d6775722e636f6d2f424d585a6a41312e706e67" group-title="JAPAN", TV Tokyo
 https://raw.githubusercontent.com/thefirefox12537/streams/master/tevetokio.m3u8
 #EXTINF:-1 group-title="JAPAN", NHK BS1
 http://203.162.235.41:20099/
@@ -86,5 +86,3 @@ https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="Japan",Tokyo MX (JOMX-DTV)
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
-#EXTINF:-1 group-title="JAPAN", OPTUS
-https://raw.githubusercontent.com/thefirefox12537/streams/master/optus_1.m3u8
