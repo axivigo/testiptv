@@ -1,7 +1,7 @@
 #EXTM3U
 /////JAPAN/////
 
-#EXTINF:-1 group-title="JAPAN", TOEI
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610" group-title="JAPAN", TOEI
 https://raw.githubusercontent.com/thefirefox12537/streams/master/toei.m3u8
 #EXTINF:-1 group-title="JAPAN", AT-X
 https://raw.githubusercontent.com/thefirefox12537/streams/master/ateeks.m3u8
@@ -85,3 +85,6 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="Japan",Tokyo MX (JOMX-DTV)
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+
+#EXTINF:-1 group-title="JAPAN", OPTUS
+https://raw.githubusercontent.com/thefirefox12537/streams/master/optus_1.m3u8
