@@ -2063,3 +2063,26 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="Malaysia", Astro SuperSport 5
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/287792
 
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",Now Sport Premier
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",Now Sport 1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSPORT 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 4
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 5
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 6
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 7
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
