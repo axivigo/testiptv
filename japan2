@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #JAPAN
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s",NHK World Japan (720p)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Tokyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcMlSCY2fXJTLwBfKLKkARmKXnG4wLZqGug&s",NHK World Premium (720p)
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="Tokyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcMlSCY2fXJTLwBfKLKkARmKXnG4wLZqGug&s",NHK World Premium (720p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS 
 http://vthanh.utako.moe:8080/d5fdd5cf-2e1c-4b10-a566-c2bae26f6299.m3u8
