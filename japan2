@@ -2,7 +2,7 @@
 
 #NIHON
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Tokyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s",NHK World Japan
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/584530
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="Tokyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcMlSCY2fXJTLwBfKLKkARmKXnG4wLZqGug&s",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
