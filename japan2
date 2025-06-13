@@ -41,7 +41,6 @@ http:/vthanh.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 http:/vthanh.utako.moe/suntv/index.m3u8
 
-
 #BS
 #EXTINF:-1 group-title="BS" tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
