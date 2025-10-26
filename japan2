@@ -21,7 +21,7 @@ https://us1001.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOEXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
 https://us1001.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://us1001utako.moe/TV_Tokyo/index.m3u8
+https://us1001.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
 https://us1001.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
